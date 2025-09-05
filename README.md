@@ -82,6 +82,7 @@ COLLECTION_NAME=customers_rfm_segments
 ```
 
 🔐 Replace with your actual MongoDB Atlas credentials.  
+
 ⚠️ **Never commit or share this file publicly.**
 
 ### 5. Run the Streamlit App
@@ -90,14 +91,6 @@ streamlit run app.py
 ```
 
 Open your browser at: [http://localhost:8501](http://localhost:8501)
-
----
-
-## ☁️ Deployed Version (Optional)
-
-🌐 Live Demo: https://yourname-customer-segmentation.streamlit.app  
-
-🎯 You can deploy your own version for free on **Streamlit Community Cloud**.
 
 ---
 
