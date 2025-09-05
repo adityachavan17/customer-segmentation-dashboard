@@ -29,11 +29,18 @@ An end-to-end data science application that segments e-commerce customers using 
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Dashboard Screenshot](screenshot.png)
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-> 💡 *Take a screenshot of your running app and save it as `screenshot.png` in the root folder.*
+### Cluster Visualization
+![Clusters](screenshots/clustering.png)
+
+### Customer Segments
+![Segments](screenshots/segmentation.png)
+
+> 💡 *Save your screenshots inside a `screenshots/` folder as shown above.*
 
 ---
 
@@ -133,6 +140,10 @@ customer-segmentation/
 ├── requirements.txt        # Python dependencies
 ├── data/                   # Folder for CSV file
 │   └── online_retail.csv
+├── screenshots/            # Screenshots for README
+│   ├── dashboard.png
+│   ├── clustering.png
+│   └── segments.png
 ├── .gitignore              # Ignored files (venv, .env, cache)
 └── README.md               # This file
 ```
