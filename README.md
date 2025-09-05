@@ -40,7 +40,7 @@ An end-to-end data science application that segments e-commerce customers using 
 ### Customer Segments
 ![Segments](screenshots/segmentation.png)
 
-> 💡 *Save your screenshots inside a `screenshots/` folder as shown above.*
+
 
 ---
 
